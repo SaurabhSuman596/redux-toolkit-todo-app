@@ -1,0 +1,13 @@
+section {
+  margin-bottom: 3rem;
+}
+
+.remainder__lable {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+}
+
+.remainder__lable label {
+  margin-left: 1rem;
+}
